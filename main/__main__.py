@@ -2,7 +2,7 @@
 
 import logging
 import time
-#from . import bot
+from . import bot
 #12
 
 #logging.basicConfig(format='[%(levelname) 5s/%(asctime)s] %(name)s: %(message)s',
